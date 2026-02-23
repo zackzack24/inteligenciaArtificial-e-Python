@@ -1,4 +1,4 @@
-<header > 
+<header> 
 <img src="assets/github-header-IAEPYTHON.png"> </br>
 <h1 align="center"> História da Inteligência Artificial  </h1>
 <h1 align="center"> 
@@ -24,4 +24,28 @@
 #### Sua visão de máquinas que pensam lançou as bases para toda a ciência da computação e para a inteligência artificial que exploramos hoje.
 
 </p>
+
+<h1 align="center"> 
+Assembly e as Primeiras Máquinas
+<img src="assets/assembly.webp" width="400" > 
+
+- Logo após Turing, os computadores eram programados em linguagem de máquina ou assembly. O código era específico para cada máquina.
+- Programa em Assembly Simulado
+```assembly
+; Programa simples: somar dois números
+; Estilo PDP-8 assembly
+
+        CLA         ; Limpa acumulador
+        TAD A       ; Soma valor de A
+        TAD B       ; Soma valor de B
+        DCA C       ; Armazena em C
+        HLT         ; Para execução
+
+A,      5           ; Dado A
+B,      3           ; Dado B
+C,      0           ; Resultado
+```
+</h1>
+
+
 </h1>

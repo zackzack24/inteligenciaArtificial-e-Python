@@ -1,9 +1,6 @@
 <header > 
 <img src="assets/github-header-IAEPYTHON.png"> </br>
-</br>
-
 <h1 align="center"> História da Inteligência Artificial  </h1>
-
 <h1 align="center"> 
 <p> Alan Turing </p>
 <img src="assets/alan-turing.webp" width="250">
